@@ -68,7 +68,7 @@
     "mini-css-extract-plugin": "^0.4.1",
     "node-sass": "^4.9.2",
     "optimize-css-assets-webpack-plugin": "^5.0.0",
-    "postcss-loader": "^2.1.6",
+    "postcss-loader": "^3.0.0",
     "prunk": "^1.3.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",

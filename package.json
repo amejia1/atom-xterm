@@ -65,7 +65,7 @@
     "fs-extra": "^7.0.0",
     "jasmine-spec-reporter": "^4.2.1",
     "jsonlint-cli": "^1.0.1",
-    "mini-css-extract-plugin": "^0.4.1",
+    "mini-css-extract-plugin": "^0.5.0",
     "node-sass": "^4.9.3",
     "optimize-css-assets-webpack-plugin": "^5.0.0",
     "postcss-loader": "^3.0.0",

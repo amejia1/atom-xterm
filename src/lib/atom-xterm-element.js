@@ -420,7 +420,7 @@ class AtomXtermElementImpl extends HTMLElement {
           this.ptyProcess.on('data', (data) => {
             let oldTitle = this.model.title
             if (this.model.profile.title !== null) {
-              this.model.title = this.model.profile.title
+              this.model.title = eval('`'+this.model.profile.title+'`')
             } else if (process.platform !== 'win32') {
               this.model.title = this.ptyProcess.process
             }

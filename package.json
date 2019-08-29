@@ -70,7 +70,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.0",
     "postcss-loader": "^3.0.0",
     "prunk": "^1.3.1",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^8.0.0",
     "style-loader": "^0.22.1",
     "stylelint": "^9.4.0",
     "stylelint-config-standard": "^18.2.0",

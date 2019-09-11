@@ -80,7 +80,7 @@
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0",
     "whatwg-url": "^6.5.0",
-    "xterm": "^3.6.0"
+    "xterm": "^4.0.0"
   },
   "scripts": {
     "build": "npm run webpack",
